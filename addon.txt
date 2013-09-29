@@ -1,0 +1,11 @@
+"AddonInfo"
+ {
+    "name"                "LDT Inventory"
+    "version"             ""
+    "up_date"             ""
+    "author_name"         "FRAG"
+    "author_email"        ""
+    "author_url"	  ""
+    "info"                ""
+    "override"            "0"
+}
